@@ -1,9 +1,11 @@
-# redpandaloversmod
+# Redpandaloversmod
+(I'm bad at naming things ok)
 
-## Setup
+## All Commands
+/copycoords
+/copycoords Include_Y
+/copycoords Only_X
+/copycoords Only_Z
+copies your current coordinates to the clipboard with some modifiers
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
